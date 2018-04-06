@@ -12,10 +12,11 @@
 
 ## 技能清单
 
-- Web开发：PHP/Html5/Css3/JS
+- Web开发：PHP/Html5/Css3/JS/NodeJS
 - Web前端：Bootstrap/jQuery/React/Antd
 - Web后端：Laravel/Yii
-- Web服务器：Nginx/Apache
+- iOS开发：Objective-C
+- 服务器：Nginx/Apache
 - 数据库相关：MySQL/SQLServer/Redis/MongoDB
 - 版本管理：Svn/Git
 - 自动化部署和项目管理相关: Jekins/Jira/Confluence
