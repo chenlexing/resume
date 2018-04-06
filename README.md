@@ -13,12 +13,10 @@
 ## 技能清单
 
 - Web开发：PHP/Html5/Css3/JS
-- 前端：Bootstrap/jQuery/React
-- Web后端框架：Laravel/Yii
-- Web前端UI库：LTEAdmin/Antd
+- Web前端：Bootstrap/jQuery/React/Antd
+- Web后端：Laravel/Yii
 - Web服务器：Nginx/Apache
 - 数据库相关：MySQL/SQLServer/Redis/MongoDB
-- 微服务相关：gRpc
 - 版本管理：Svn/Git
 - 自动化部署和项目管理相关: Jekins/Jira/Confluence
 - 其他: 七牛云存储、短信、消息推送， OSS、支付宝支付、微信支付、微信公众号、小程序开发
