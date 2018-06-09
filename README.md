@@ -12,14 +12,17 @@
 
 ## 技能清单
 
-- Web开发：PHP/Html5/Css3/JS/NodeJS
+- Web开发：PHP/Go/NodeJS/Html5/Css3/JS
 - Web前端：Bootstrap/jQuery/React/Antd
-- Web后端：Laravel/Yii
+- Web后端：Laravel/Yii/Beego
 - iOS开发：Objective-C
 - 服务器：Nginx/Apache
-- 数据库相关：MySQL/SQLServer/Redis/MongoDB
+- 数据库相关：MySQL/PostgreSQL/SQLServer/MongoDB
+- 缓存相关：Redis/Memcached
+- 中间件相关：RabbitMQ/KafKa
+- 搜索相关：ELKX
 - 版本管理：Svn/Git
-- 自动化部署和项目管理相关: Jekins/Jira/Confluence
+- 自动化部署和项目管理相关: Jekins/WalleWeb/Jira/Confluence
 - 其他: 七牛云存储、短信、消息推送， OSS、支付宝支付、微信支付、微信公众号、小程序开发
 
 ## 个人优势
@@ -37,7 +40,7 @@
 - 参与热门技术的调研，并将成熟的技术/方案引入带项目中
 - 主要负责项目前端技术选型，搭建和基础组件和页面的开发和迭代
 
-#### 上海吾能网络科技有限公司 （2015.3 ~ 2016.11）项目经理
+#### 上海吾能网络科技有限公司 （2015.3 ~ 2016.11）技术经理
 
 - 负责对项目整体需求分析、重难点技术的技术调研
 - 负责项目的开发进度规划、指导并管理研发人员的开发
@@ -76,7 +79,7 @@
 - 项目起始年份
   - 2016
 - 项目职责
-  - 担任项目经理，参与产品需求分析和设计，主要产品研发进度规划、指导并管理研发人员的开发
+  - 担任技术经理，参与产品需求分析和设计，主要产品研发进度规划、指导并管理研发人员的开发
   - 兼职客户端API接口开发和IOS客户端开发
 - 项目收获
   - 对产品整个的生产流程有较深的理解
