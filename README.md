@@ -23,8 +23,9 @@
 - 中间件相关：RabbitMQ/KafKa
 - 搜索相关：ELKX
 - 版本管理：Svn/Git
-- 自动化部署和项目管理相关: Jekins/WalleWeb/Jira/Confluence
-- 其他: 七牛云存储、短信、消息推送， OSS、支付宝支付、微信支付、微信公众号、小程序开发
+- 容器相关：Docker/Vagrant/VirtualBox
+- 自动化部署和项目管理相关: Jekins/WalleWeb/Jira/Confluence/禅道
+- 其他: 云存储、短信、消息推送， OSS、支付、微信公众号、微信小程序开发
 
 ## 个人优势
 
