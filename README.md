@@ -13,11 +13,10 @@
 
 ## 技能清单
 
-- Web开发：PHP/Go/NodeJS/Html5/Css3/JS
-- Web前端：Bootstrap/jQuery/React/Antd
-- Web后端：Laravel/Yii/Beego
-- iOS开发：Objective-C
-- 服务器：Nginx/Apache
+- 后端开发：PHP(Laravel,Yii)/Go(Beego)/NodeJS(Express,Koa)
+- 前端开发：Html5/Css3/JS/Bootstrap/jQuery/React/Antd
+- 客户端开发：IOS(Objective-C)
+- 服务器相关：Nginx/Apache
 - 数据库相关：MySQL/PostgreSQL/SQLServer/MongoDB
 - 缓存相关：Redis/Memcached
 - 中间件相关：RabbitMQ/KafKa
