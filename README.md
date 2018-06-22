@@ -146,7 +146,7 @@
 - 项目收获
   - 熟悉 cakephp 框架
   - 掌握利用 IIS 服务器发布 php 项目
-  - 了解 Load Balnce 做负载均衡。
+  - 了解 Load Balance 做负载均衡。
   - 熟练使用SQLServer数据库
   
 ## 教育经历
