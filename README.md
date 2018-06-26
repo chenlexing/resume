@@ -6,7 +6,7 @@
 - 电话：176 0212 6408
 - 邮箱：chenlexing@hotmail.com
 - 期望职位：技术经理 | PHP高级工程师
-- 期望薪资: 20K ~ 30K
+- 期望薪资: 面谈
 - 期望城市：厦门
 - GitHub：http://github.com/chenlexing
 - Blog：http://blog.lightyarn.com
