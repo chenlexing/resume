@@ -20,7 +20,7 @@
 - 数据库相关：MySQL/PostgreSQL/SQLServer/MongoDB
 - 缓存相关：Redis/Memcached
 - 中间件相关：RabbitMQ/KafKa
-- 搜索相关：ELKX/xunsearch
+- 搜索相关：Elasticsearch/xunsearch
 - 版本管理：Svn/Git
 - 容器相关：Docker/Vagrant/VirtualBox
 - 自动化部署和项目管理相关: Jekins/WalleWeb/Jira/Confluence/禅道
