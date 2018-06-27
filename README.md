@@ -5,7 +5,7 @@
 - 工作年限：5 年
 - 电话：176 0212 6408
 - 邮箱：chenlexing@hotmail.com
-- 期望职位：技术经理 | PHP高级工程师
+- 期望职位：研发经理
 - 期望薪资: 面谈
 - 期望城市：厦门
 - GitHub：http://github.com/chenlexing
@@ -14,10 +14,10 @@
 ## 技能清单
 
 - 后端开发：PHP(Laravel,Yii)/Go(Beego)/NodeJS(Express,Koa)
-- 前端开发：bootstrap/jqueryJs/zeptoJs/React/Antd
+- 前端开发：Bootstrap/JQuery/Zepto/React/Antd
 - 客户端开发：IOS(Objective-C)
 - 服务器相关：Nginx/Apache
-- 数据库相关：MySQL/PostgreSQL/SQLServer/MongoDB
+- 数据库相关：MySQL/PostgreSQL/MongoDB
 - 缓存相关：Redis/Memcached
 - 中间件相关：RabbitMQ/KafKa
 - 搜索相关：Elasticsearch/xunsearch
@@ -27,7 +27,7 @@
 - 其他: 云存储、短信、消息推送、支付、微信公众号、微信小程序开发、集群、分布式
 
 ## 个人优势
-
+- 精通PHP，React
 - 5 年软件开发经验，积累了较多的业务和开发经验，能独立完成 Web 应用的开发
 - 5 年工作中包含一年半项目管理经验，工作中贯穿了产品需求分析，确定功能，产品原型讨论，产品设计讨论到项目架构设计，开发，测试，部署，维护，迭代等整个环节
 - 有良好的学习能力、沟通能力、解决问题能力，拥有很强的工作责任感
