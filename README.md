@@ -14,7 +14,7 @@
 ## 技能清单
 
 - 后端开发：PHP(Laravel,Yii)/Go(Beego)/NodeJS(Express,Koa)
-- 前端开发：Bootstrap/JQuery/Zepto/React/Antd
+- 前端开发：Bootstrap/JQuery/React/Antd
 - 客户端开发：IOS(Objective-C)
 - 服务器相关：Nginx/Apache
 - 数据库相关：MySQL/PostgreSQL/MongoDB
@@ -24,7 +24,8 @@
 - 版本管理：Svn/Git
 - 容器相关：Docker/Vagrant/VirtualBox
 - 自动化部署和项目管理相关: Jekins/WalleWeb/Jira/Confluence/禅道
-- 其他: 云存储、短信、消息推送、支付、微信公众号、微信小程序开发、集群、分布式
+- ELSE：RESTFUL，GraphQL，RPC，设计模式，数据结构，算法
+- 其他：云存储、短信、消息推送、支付、微信公众号、微信小程序开发、集群、分布式
 
 ## 个人优势
 - 精通PHP，React
