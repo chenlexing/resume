@@ -24,7 +24,7 @@
 - 版本管理：Svn/Git
 - 容器相关：Docker/Vagrant/VirtualBox
 - 自动化部署和项目管理相关: Jekins/WalleWeb/Jira/Confluence/禅道
-- 其他：云存储、短信、消息推送、支付、微信公众号、微信小程序开发、集群、分布式
+- 其他：云存储、短信、消息推送、支付、微信开发(公众号、小程序)、集群、分布式、RESTFUL、RPC、GraphQL
 
 ## 个人优势
 - 精通PHP，React
