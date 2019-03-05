@@ -7,7 +7,7 @@
 - 邮箱：chenlexing@hotmail.com
 - 期望职位：研发经理
 - 期望薪资: 面谈
-- 期望城市：厦门
+- 期望城市：厦门/上海
 - GitHub：http://github.com/chenlexing
 - Blog：http://blog.lightyarn.com
 
