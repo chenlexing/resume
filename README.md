@@ -13,8 +13,8 @@
 
 ## 技能清单
 
-- 后端开发：PHP(Laravel,Yii)/Go(Beego)/NodeJS(Express)
-- 前端开发：Bootstrap/JQuery/Webpack/React/Antd
+- 后端开发：PHP(Laravel,Yii)/Go(Beego,Gin)/NodeJS(Express)
+- 前端开发：Html5/Css3/Bootstrap/JQuery/Webpack/React/Antd
 - 客户端开发：IOS(Objective-C)
 - 服务器相关：Nginx/Apache
 - 数据库相关：MySQL/PostgreSQL/MongoDB
